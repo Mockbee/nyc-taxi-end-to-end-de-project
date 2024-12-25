@@ -5,7 +5,7 @@ In this project, we designed and implemented a modern data pipeline using **Azur
 ---
 
 ### **Project Architecture**
-![Architecture Diagram](https://github.com/Mockbee/nyc-taxi-end-to-end-de-project/blob/main/Screenshot%202024-12-22%20174534.png)
+![Architecture Diagram](https://github.com/Mockbee/nyc-taxi-end-to-end-de-project/blob/main/Data%20Architecture.png)
 
 ---
 
