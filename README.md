@@ -1,5 +1,3 @@
-# NYC Taxi Data Engineering Project
-
 # **Green Taxi Trip Data Engineering Project**
 
 In this project, we designed and implemented a modern data pipeline using **Azure Data Factory**, **Databricks**, **Azure Data Lake**, and **Power BI**, structured around the Medallion Architecture.
@@ -7,13 +5,14 @@ In this project, we designed and implemented a modern data pipeline using **Azur
 ---
 
 ### **Project Architecture**
-*To be added: Architecture Diagram*
+![Architecture Diagram](https://github.com/ArpiteshSrivastava/spotify-data-engineering-project/blob/main/Project%20Architecture%20Diagram.png)
 
 ---
 
 ### **About Dataset/API Used**
 This project integrates data from two diverse sources:  
 1. **CSV files** containing Green Taxi trip data.  
+   - The dataset can be accessed [here](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page).  
 2. **A public API** providing additional datasets, such as trip_type and trip_zone.  
 
 These datasets were processed to build a scalable pipeline for insights and analytics.
