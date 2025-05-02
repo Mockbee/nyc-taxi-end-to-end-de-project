@@ -63,8 +63,10 @@ These datasets were processed to build a scalable pipeline for insights and anal
    - Connected Databricks to Azure Data Lake using service principal authentication.  
    - PySpark scripts applied complex transformations and loaded data into Delta tables.
 
-6. **Data Visualization with Power BI:**  
-   - Imported Gold Layer data into Power BI to create actionable dashboards and visualizations.
+6. **Created a Workflow**
+   - Workflow to automate the process
+   - added triggers
+     [Workflow Diagram](https://drive.google.com/file/d/1Q-buKGDqaYJOaSWOHRyq6wznWH65hnnP/view?usp=sharing)
 
 ---
 
